@@ -5,7 +5,7 @@
 
 Hello, This is Sohel Rana full stack web developer. I'm expert in PHP, Laravel, HTML5, CSS, JavaScript. I have live work experience and completed many projects.
 
-###Developer Skills: 
+### Developer Skills: 
 PHP | Laravel | React | JavaScript | Bootstrap | Tailwind CSS | SCSS |CSS
 
 - 🔭 I’m currently working on IT taring center and full time freelancer  
