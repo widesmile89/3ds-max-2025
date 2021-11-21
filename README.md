@@ -38,7 +38,7 @@ Hello, This is Sohel Rana full stack web developer. I'm expert in PHP, Laravel, 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sohelrana@gmail.com)
 
 
-[![Riport Badge](https://github-readme-stats.vercel.app/api?username={devsohelrana})](#)
+[![Riport Badge](https://github-readme-stats.vercel.app/api?username=devsohelrana)](#)
 
 
 
