@@ -1,4 +1,4 @@
-![Full Stack Web Developer](https://scontent-mrs2-1.xx.fbcdn.net/v/t39.30808-6/s960x960/254695620_598879428203941_5126849656642989994_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=eT_b1KpuJJgAX-zWpDS&_nc_ht=scontent-mrs2-1.xx&oh=0faf16bfaa917e9fff9346007ae59395&oe=619ED6CA)
+![Full Stack Web Developer](https://github.com/devsohelrana/devsohelrana/blob/main/sohel-rana.jpg)
 
 ## Hi there <img src="https://github.com/devsohelrana/devsohelrana/blob/main/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Sohel Rana
 #### Full Stack Web Application Developer
