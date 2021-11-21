@@ -37,3 +37,5 @@ Hello, This is Sohel Rana full stack web developer. I'm expert in PHP, Laravel, 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devsohelrana) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sohelrana@gmail.com)
 
+https://github-readme-stats.vercel.app/api?username={devsohelrana}
+
